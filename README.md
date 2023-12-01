@@ -58,7 +58,7 @@ Step-by-step instructions to get you running Progressive Prompts:
 ### 1) Clone this repository to your local machine:
 
 ```bash
-https://github.com/ytyfeng/SelectiveProgressivePrompts.git
+https://github.com/rajkunamaneni/SelectiveProgressivePrompts.git
 ```  
 
 A folder called ```SelectiveProgressivePrompts``` with all the codebase should appear.
